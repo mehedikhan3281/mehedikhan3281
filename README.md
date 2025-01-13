@@ -1,6 +1,6 @@
 # Hi there, I'm Mehedi Hasan Khan 👋
 
-![Profile views](https://gpvc.arturio.dev/mehedikhan3281)
+![](https://komarev.com/ghpvc/?username=mehedikhan3281&color=green)
 
 ## About Me
 
