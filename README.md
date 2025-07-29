@@ -1,44 +1,46 @@
-# Hi there, I'm Mehedi Hasan Khan 👋
+<h1 align="center">Hi there 👋, I'm Md. Mehedi Hasan Khan</h1>
 
-![](https://komarev.com/ghpvc/?username=mehedikhan3281&color=green)
+<p align="center">
+  A passionate Frontend Developer from Bangladesh 🇧🇩 <br>
+  I love building modern web apps using <b>React</b>, <b>Next.js</b>, and <b>Node.js</b>.
+</p>
 
-## About Me
+---
 
-I am a passionate Forntend Developer with a love for coding and learning new technologies. I enjoy problem-solving and building projects that make a difference.
+### 🛠️ Tech Stack
 
-- 🎓 I’m currently learning and improving my skills in various libraries frameworks.
-- 💼 I’m looking for opportunities to collaborate on open-source projects.
-- 📫 How to reach me: [mehedikhan3281@gmail.com](mailto:mehedikhan3281@gmail.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,html,css,react,nextjs,nodejs,mongodb,git,github,framermotion,socketio" />
+</p>
 
-## Skills
+---
 
-Here are some of the technologies and tools I work with:
+### 📊 GitHub Stats
 
-- **Languages:** JavaScript, Python, C, C++
-- **Web Development:** HTML, CSS, React, Node.js, NextJs
-- **Databases:** MongoDB
-- **Tools:** Git, VS Code, Cursor
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedikhan3281&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-## Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehedikhan3281&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### Project 1: Awesome Project
-- **Description:** A brief description of the project.
-- **Technologies Used:** JavaScript, React, Node.js
-- **Repository:** [GitHub Link](https://github.com/mehedikhan3281/awesome-project)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhan3281&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-### Project 2: Another Cool Project
-- **Description:** A brief description of the project.
-- **Technologies Used:** Python, Flask, MySQL
-- **Repository:** [GitHub Link](https://github.com/mehedikhan3281/another-cool-project)
+---
 
-## GitHub Stats
+### 📫 Connect With Me
 
-![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedikhan3281&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mehedi.care/)
-
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehedikhan3281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mehedikhan404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mehedikhan3281" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
