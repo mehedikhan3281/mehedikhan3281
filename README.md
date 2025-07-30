@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/mehedikhan3281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mehedikhan404@gmail.com" target="_blank">
+  <a href="mailto:mehedikhan3281@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/blueboss100/" target="_blank">
