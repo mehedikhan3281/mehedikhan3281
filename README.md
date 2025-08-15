@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,html,css,react,nextjs,nodejs,mongodb,git,github,framermotion,socketio" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,html,css,react,nextjs,nodejs,mongodb,git,github,framermotion" />
 </p>
 
 ---
