@@ -17,16 +17,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedikhan3281&theme=github_dark" alt="GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedikhan3281&theme=github_dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedikhan3281&theme=github_dark" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mehedikhan3281&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedikhan3281&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
