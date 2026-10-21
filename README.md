@@ -22,15 +22,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/mehedikhan3281/mehedikhan3281/image-source/profile-summary-cards-output/stats.svg" alt="GitHub Stats" />
+      <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/mehedikhan3281/mehedikhan3281/image-source/profile-summary-cards-output/repos-per-language.svg" alt="Most Used Languages" />
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/mehedikhan3281/mehedikhan3281/image-source/profile-summary-cards-output/most-commit-language.svg" alt="Most Commit Language" />
+      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
     </td>
   </tr>
 </table>
